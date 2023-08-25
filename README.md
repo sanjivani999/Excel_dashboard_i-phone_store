@@ -13,10 +13,8 @@ Target women customers of age group (30-49 yrs)living in Maharashtra, Karnataka 
 
 
 
-#Data Of i-Phone Store
+#Excel_dashboard_i-phone_store
 ![Screenshot (46)](https://github.com/sanjivani999/Excel_dashboard_i-phone_store/assets/101619527/573d2c92-f2d7-4d8e-a176-7fb6330852dd)
-
-
 
 
 
@@ -25,12 +23,7 @@ Target women customers of age group (30-49 yrs)living in Maharashtra, Karnataka 
 
 
 
-
-
-
 ![Screenshot (44)](https://github.com/sanjivani999/Excel_dashboard_i-phone_store/assets/101619527/fa673ced-3868-41b8-bb40-e0672f787542)
-
-
 
 
 
